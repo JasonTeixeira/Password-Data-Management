@@ -1,6 +1,6 @@
 # Password and Data Management Best Practices
 
-Important Fact:Most Cloud environments suffer most from mis-configurations and not the right attention given to proper access handeling. It is **extremely important** to not facilitate the job of an attacker by making sensitive information visible or easily accessible
+Important Fact: Most Cloud environments suffer most from mis-configurations and not the right attention given to proper access handeling. It is **extremely important** to not facilitate the job of an attacker by making sensitive information visible or easily accessible
 
 ## **Introduction**
 
